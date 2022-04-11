@@ -1,0 +1,54 @@
+Tema sd
+
+Mi am declarat 3 structuri: Node cu campurile titlu ,artist,album , year, Node next si Node prev;list cu Node head, Node tail si node cursor , buffer la fel ca node mai putin node prev si node next. Cu ajutorul bufferului citesc din fisierele din songs informatii despre melodii. Din buffer voi copia in nodurile nou alocate informatii despre melodia ce trebuie adaugata.
+Pentru  functii:
+
+
+Move next imi muta cursorul cu o pozitie mai in fata in lista daca e posibil , daca nu acesta nu face nimic.Daca cursorul nu indica nicio melodie atunci functia va scrie in fisierul primit ca parametru "Error: no track playing\n".
+
+
+Move prev muta cursorul cu o pozitie mai in spate daca este posibil, daca nu nu face nimic.Daca cursorul nu indica nicio melodie atunci functia va scrie in fisierul primit ca parametru "Error: no track playing\n".
+
+
+Del First  sterge prima melodie din lista daca este posibil , avand totodata grija sa mute cursorul pe melodia din fata acesteia daca este posibil,daca nu cursorul va deveni NULL;
+
+
+Del last  sterge ultima melodie din lista daca este posibil, avand totodata grija sa mute cursorul pe melodia din spate daca este posibil,daca nu cursorul se va muta pe melodia din spate, daca nu este posibil acesta va deveni NULL;
+
+
+Del cur sterge melodia la care indica cursorul . daca aceasta este tail sau head atunci apelez functia del last respectiv del first. altfel elimin nodul care este indicat de cursor avand grija sa mut cursorul pe melodia de pe pozitia urmatoare , daca nu este posbil acesta se va muta cu o poztie in spate daca nici acest lucru nu este posibil va deveni null,
+
+
+Add first  adauga o melodia la inceputul listei. Inainte de a adauga melodia o caut in lista si in functie de pozitia acesteia apelez functia del del song pentru a o sterge in cazul in care aceasta exista. Dupa aceasta aloc un nou nod pe care il adaug la inceputul listei acesta devenind head.
+Daca lista era goala atunci tail devine head
+
+
+Add first adauga o melodia la sfarsitul listei. Inainte de a adauga melodia o caut in lista si in functie de pozitia acesteia apelez functa  si del song pentru a o sterge in cazul in care aceasta exista. Dupa aceasta aloc un nou nod pe care il adaug la sfarsitul listei acesta devenind tail.
+Daca lista era goala atunci head devine tail.
+
+
+Add after adauga o melodie dupa poztia unde se afla cursorul.Daca cursorul se afla pe melodia pe care vreau sa o adaug atunci apelez return;  Inainte de a adauga melodia o caut in lista si in functie de pozitia acesteia apelez functa   del song pentru a o sterge in cazul in care aceasta exista.Daca cursorul indica nul va scrie intr un fisier primit ca parametru empty playlist.Daca cursorul se afla pe ultima melodie atunci va apela functia add last. Altfel voi insera un nou nod dupa pozitia cursorului.
+
+
+Show first imi printeaza informatiile despre prima melodie din lista, daca lista este goala va scrie in fisier empty playlist. 
+
+
+Show las imi printeaza informatiile despre ultima melodie din lista, daca lista este goala va scrie in fisier empty playlist. 
+
+
+Show curr imi printeaza informatiile despre  melodia care este indicata de cursor , daca lista este goala va scrie in fisier empty playlist.
+
+
+Show playlist imi printeaza titlul pentru fiecare melodie din lista , daca lista este goala va scrie in fisier empty playlist. 
+
+
+Main:
+
+	Am alocat dinamic lista initializand campurile ei cu NULL;
+	Apoi deschid fisierele de unde trebuie sa citesc comenzile si unde trebuie sa afisez outputul cu if urile de rigoare;
+	Pentru fisierul de intrare am citit cu fscanf primul cuvant de pe prima linie reprezentand numarul comenzilor;		
+	Apoi cu un for de la 0 la acel numar pentru fiecare dintre liniile din fisier am citit primul cuvant cu fscanf reprezentand comanda apoi am citit un spatiu , iar apoi am citit restul liniei reprezentand numele melodiei. Utilizand strcmp am comparat numele comenzii cu fiecare dintre numele functiilor , in cazul in care acestea se potriveau aplicam functia respectiva asupra listei .
+	Dupa terminarea for ului am inchis fisierele si apoi prin inntermediul unui while si al unui nod auxiliar am eliberat lista. 
+
+
+

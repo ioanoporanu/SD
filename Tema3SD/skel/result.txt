@@ -1,0 +1,104 @@
+Experience with SPM in IPv6 1602424971 2007 0
+Electronic health records: A simulation model to measure the adoption rate from policy interventions 1581337105 2013 0
+OSPF monitoring: architecture, design and deployment experience 1607215488 2004 0
+Building an electronic market system 1520350321 2010 0
+How to build a low-cost, extended-range RFID skimmer 1488608415 2006 0
+Certifying and Synthesizing Membership Equational Proofs 1586723954 2003 0
+Fingerprinting ratings for collaborative filtering: theoretical and empirical analysis 1499558210 2010 0
+Towards Adaptive Generation of Faded Examples 1754998205 2004 0
+Approximately Counting Triangles in Sublinear Time 1498019842 2015 0
+A proxy caching system based on multimedia streaming service over the internet 1577062889 2004 0
+Expert knowledge-guided segmentation system for brain MRI 1516265689 2003 0
+Trace-driven cache attacks on AES (short paper) 1821583647 2006 0
+Enabling alarm correlation for a mobile agent based system and network management - a wrapper concept 1532066854 1999 0
+CREWS-SAVRE: Scenarios for Acquiring and Validating Requirements 1548391645 1998 0
+Binary Covering Arrays and Existentially Closed Graphs 1526335077 2009 0
+On rational trees 1563289313 2006 0
+Algebraic operations on PQ trees and modular decomposition trees 1513444930 2005 0
+Parallel multiprocessor approaches to the RNA folding problem 1514700232 2007 0
+Context analysis: toward pragmatics of web information systems design 1551630139 2008 0
+Sub-linear, secure comparison with two non-colluding parties 1559348249 2011 0
+Malleability of Students' Perceptions of an Affect-Sensitive Tutor and Its Influence on Learning. 1516046516 2012 0
+Extending Ambient Intelligence to the Internet of Things: New Challenges for QoC Management 160517265 2014 0
+On the Efficiency of Impact Based Heuristics 1507821748 2008 0
+A lower bound on greedy embedding in euclidean plane 1507889248 2010 0
+Quantifier elimination for statistical problems 1755347921 1999 0
+Developing Topology Discovery in Event-B 1505442702 2009 0
+Margin-Based active learning for structured output spaces 1580210754 2006 0
+The Intrinsic Evolution of Virtex Devices Through Internet Reconfigurable Logic 1497726515 2000 0
+Anti-virus in-the-cloud service: are we ready for the security evolution? 1510631798 2012 0
+Delegating Privileges over Finite Resources: A Quota Based Delegation Approach 1538516177 2009 0
+A framework for evidence lifecycle management 1566687290 2007 0
+Automatic Extraction of Proximal Femur Contours from Calibrated X-Ray Images Using 3D Statistical Models 1503130114 2008 0
+Using common sense to recognize cultural differences 1565744154 2006 0
+Goblin: a DBPL designed for Advanced Database Applications 165772988 1991 0
+Early Recovery in Logic Program Updates 1082124369 2013 0
+Energy-Efficient Task Scheduling and Data Aggregation Techniques in Wireless Sensor Networks for Information Explosion Era 126358584 2010 0
+Personal Mobile Assistant for Air Passengers with Disabilities (PMA) 1569512334 2008 0
+JML2B: checking JML specifications with b machines 1518940261 2007 0
+Non-Linear Gaussian Filters Performing Edge Preserving Diffusion 1515939292 1995 0
+Preliminary investigation of the 'learnable evolution model' for faster/better multiobjective water systems design 1535546394 2005 0
+Optimal, Output-Sensitive Algorithms for Constructing Upper Envelope of Line Segments in Parallel 1529390395 2001 0
+Decompositions, partitions, and coverings with convex polygons and pseudo-triangles 1547603158 2006 0
+Teaching Autonomous Agents to Move in a Believable Manner within Virtual Institutions 1483125983 2008 0
+Value iteration and optimization of multiclass queueing networks 1651079343 1998 0
+Private yet abuse resistant open publishing 1558344273 2007 0
+Efficient Cluster Detection by Ordered Neighborhoods 1557446688 2015 0
+A Survey on Approaches to Modeling Artifact-Centric Business Processes 1602959193 2014 0
+Objects + Views = Components? 1500159032 2000 0
+A user-centric privacy framework for pervasive environments 1561152985 2006 0
+Adjoining declassification and attack models by abstract interpretation 1569068078 2005 0
+Adaptation and medical case-based reasoning focusing on endocrine therapy support 1481179329 2005 0
+General Perfect Secret Sharing Schemes 1525224470 1995 0
+Towards a Dynamic Resource Contractualisation for Software Components 1591800429 2004 0
+Normative Multi-agent Programs and Their Logics 1492713212 2009 0
+Analyzing and Debugging Hierarchies of Multi-way Local Propagation Constraints 1594136947 1994 0
+Non-intrusive Formal Methods and Strategic Rewriting for a Chemical Application 1503244527 2006 0
+AgentX: Using Reinforcement Learning to Improve the Effectiveness of Intelligent Tutoring Systems 1564960024 2004 0
+When Face Recognition Meets with Deep Learning: An Evaluation of Convolutional Neural Networks for Face Recognition 1622838444 2015 0
+Fast spatio-temporal free-form registration of cardiac MR image sequences 1522378916 2005 0
+A score-level fusion benchmark database for biometric authentication 1567185349 2005 0
+The Measurement of an Optimum Load Balancing Algorithm in a Master/Slave Architecture 1570166653 2004 0
+An Application of Temporal Logic for Representation and Reasoning about Design 1598196252 1992 0
+Verification of Component-Based Systems via Predicate Abstraction and Simultaneous Set Reduction 1684831444 2015 0
+Distributional learning of some context-free languages with a minimally adequate teacher 1820754082 2010 0
+Analysis and Improvement of Micali's Fair Contract Signing Protocol 1822485157 2004 0
+Individual Reuse in Description Logic Reasoning 1538613579 2008 0
+Querying Semi-Structured Data 1535992660 1997 0
+Using artificial epigenetic regulatory networks to control complex tasks within chaotic systems 1598760652 2012 0
+Formal Methods in Testing Software Architectures 161987229 2003 0
+Key Agreement Protocols and Their Security Analysis 1527077352 1997 0
+Steganalysis of JPEG Images: Breaking the F5 Algorithm 1535817554 2002 0
+Upper Bounds for a-Domination Parameters 1641711201 2009 0
+Semantics-aware services for the mobile computing environment 1607756648 2005 0
+A Real-World Application of a Many-Objective Optimisation Complexity Reduction Process 106819720 2013 0
+Desynchronization and Traceability Attacks on RIPTA-DA Protocol 1732757216 2013 0
+Sentence Extraction by Spreading Activation with Refined Similarity Measure 159424579 2003 0
+A database approach to symbolic music content management 1538723638 2010 0
+Efficient online detection of temporal patterns 1564749275 2016 0
+Improving Case Management via Statistical Text Mining in a Foster Care Organization 156070832 2014 0
+A Configurable Deep Network for high-dimensional clinical trial data 1623076851 2015 0
+Extending value stream mapping through waste definition beyond customer perspective 1501115199 2014 0
+Analysis of a Public Key Approach Based on Polynomial Substitution 1585576754 1985 0
+ITR: A Case-Based Travel Advisory System 1787496734 2002 0
+A Socio-technical Approach towards Supporting Intra-organizational Collaboration 1549063538 2008 0
+A Bottom-up Robot Architecture Based on Learnt Behaviors Driven Design 1023270590 2015 0
+Non-preemptive Throughput Maximization for Speed-Scaling with Power-Down 1819724783 2015 0
+A case study: visualizing material point method data 1579764669 2006 0
+Concept of a Multi-Agent System for Assisting in Real Estate Appraisals 1519653351 2009 0
+Heapsort - Adapted for Presorted Files 1563106223 1989 0
+Contact Algebras and Region-based Theory of Space: A Proximity Approach - I 1664281635 2006 0
+Learning user queries in multimodal dissimilarity spaces 1544027319 2005 0
+Typed goi for exponentials 1570325003 2006 0
+Fractal gene regulatory networks for control of nonlinear systems 1499710304 2010 0
+Stochastic Logic Programs: Sampling, Inference and Applications 1582613186 2000 0
+There is safety in numbers: preventing control-flow hijacking by duplication 104428423 2012 0
+Solving the salinity control problem in a potable water system 1603124165 2007 0
+Direct Replacement: A Genetic Algorithm Without Mutation Which Avoids Deception 1512070748 1993 0
+Improving Relation Extraction by Exploiting Properties of the Target Relation 1499297345 2009 0
+Noise-robust speaker verification using F0 features. 142852980 2004 0
+Generating quasi-symbolic representation of three-dimensional flow 1654191741 1993 0
+ERR [check_most_cited_papers:281]
+input = Graph theory 6
+output = On rational trees
+ref = Algebraic operations on PQ trees and modular decomposition trees

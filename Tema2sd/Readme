@@ -1,0 +1,27 @@
+	Task1: freq.c	
+	-Pentru prima cerinta am alocat dinamic folosind calloc un vector de frecventa si am citit de la stdin pana la final. 
+	-De fiecare data cand citeam un numar ii cresteam cu 1 valoarea resectivul sau din vectorul de freceventa . 
+	-In final am afisat fiecare numar reprezentat de indicele din vectorul de frecventa si valoarea acestuia doar daca valoarea acestuia era diferita de 0.Apoi am eliberat vectorul de frecventa.
+	
+
+	Task2:hash.c	
+	-Pentru a doua cerinta am citit de la stdin si am numarat cate stringuri citesc, apoi cu fseek m am pozitionat din nou la inceputul fisierului stdin. 
+	-Apoi am alocat un pointer la un  hashtable cu atatea bucketuri cate stringuri am citit .Fiecare bucket este o structura ce contine un string si un int care numara frecventa. 
+	-Apoi folosind o functie de hash am aflat bucketul corespunzator fiecarui string . Am verificat daca in bucketul respectiv se afla ceva si daca da , daca valoarea de acolo este diferita de valoarea curenta citita de mine. 
+	-Daca nu era diferita doar cresteam frecventa cu 1 , daca bucketul respectiv era gol adaugam stringul si cresteam frecventa cu 1.
+	-Daca valoarea de acolo era diferita cautam in toate bucketurile din hashtable ramase si repetam pentru fiecare operatiile anterioare. 
+	-Daca macar una era efectuata functia repetitiva de cautare se oprea.La final am afisat toate stringurile din hashtable si nr de aparitii al acestora.
+	
+
+
+	Task3:hll.c	
+	-Pentru a treia cerinta am alocat dinamic folosind calloc un vector M[j] de dimensiune m . 	
+	-Apoi pentru fiecare hash al unui numar citit i-am aflat primii 11 biti care imi aratau pozitia sa in hastable respectiv imi indica j din M[j]. 	
+	-Apoi din bitii ramasi am aflat cati biti consecutivi initiali de 0 are prin intermediul unui while ce shifta la dreapta cu 1 cat timp numarul era diferit de 0. 
+	-Am comparat acest numar cu respectivul M[j], iar daca cesta era > M[j] atunci M[j] lua valoarea acestuia. 
+	-Avand vectorul M[j] am calculat formula pe care o aveam in enunt prin intermediul a 3 for uri  si am afisat numarul.
+	-constanta am calculat-o folosind m si am salvat-o in vriabila alfa
+	-functia de hash am preluat-o din laborator
+	-functia nr_bytes imi calculeaza numarul de biytes pentru un numar
+	-citirea din fisier o fac cu fscanf
+	
